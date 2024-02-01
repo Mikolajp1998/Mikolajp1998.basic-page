@@ -75,7 +75,7 @@ nav a {
 
     background-image: url(/resources/images/wallpaperflare.com_wallpaper.jpg);
     display: flex;
-    min-height: 30rem;
+    min-height:64rem;
     justify-content: center;
     align-items: center;
     height: auto;
